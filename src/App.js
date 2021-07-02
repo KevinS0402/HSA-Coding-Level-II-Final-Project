@@ -1,14 +1,11 @@
-import React from 'react'
-import {TodoList} from './containers/TodoList'
-import Home from './containers/Home'
+import Webpages from './Route';
 
-const userName = "Kevin"
-const element = <Home name = "Kevin"/>
-const App = () => (
-  <div className="App">
-    {userName ? <Home name = {userName}/> : <Home name = "Stranger"/>}
-    <TodoList />
-  </div>
-)
+function App() {
+    return (
+        <div>
+            <Webpages />
+        </div>
+    );
+}
 
-export default App
+export default App;

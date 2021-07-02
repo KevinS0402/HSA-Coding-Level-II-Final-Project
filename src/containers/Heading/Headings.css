@@ -1,0 +1,9 @@
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Helvetica;
+    color: white;
+    vertical-align: center;
+    height: 25%;
+}

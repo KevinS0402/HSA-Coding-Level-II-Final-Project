@@ -1,0 +1,96 @@
+#homeSection {
+    width: 100%;
+    min-height: 300px;
+    margin: 0 auto;
+    display: flex;
+    /*
+    display: flex;
+    justify-content: center;
+    align-items: center;*/
+}
+
+#Column1Contact {
+    padding: 10px;
+    flex: 1;
+    vertical-align: center;
+}
+
+#Column2Contact {
+    display: flex;
+    width: 50%;
+    align-items: center;
+}
+#Column2Contact Heading1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#AboutMessage {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    font-size: 20px;
+    height: 5%;
+    text-align: center;
+    line-height: 1.75;
+}
+
+#AboutMe {
+    color: white;
+    display: flex;
+    font-size: 20px;
+    height: 2%;
+    line-height: 1.75;
+    text-align: left;
+}
+
+#AboutMeSub {
+    color: white;
+    display: flex;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: left;
+}
+
+form {
+    text-align: center;
+
+    text-decoration: none;
+    color: white;
+}
+
+#AboutList {
+    
+    
+    
+    color: white;
+    background-color: black;
+    background: black;
+    font-family: Helvetica;
+    
+}
+
+#AboutItem {
+    
+    
+    display: inline-block;
+    color: white;
+    clear: left;
+    font-family: Helvetica;
+    line-height: 1.75;
+    margin-left: 20px;
+    font-size: 16px;
+    list-style-type: circle;
+}
+
+#AboutItem:before {
+    content: "• "
+}
+
+a {
+    color: white;
+}

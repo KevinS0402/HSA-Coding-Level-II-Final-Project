@@ -1,0 +1,52 @@
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Helvetica;
+    color: white;
+}
+
+body {
+    background-color: black;
+    font-family: Helvetica;
+}
+
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Helvetica;
+    color: white;
+}
+
+li a:link, a:visited {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+
+    
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+#fireLogo {
+    display: block;
+    height: 40px;
+    width: auto;
+    margin: 20px;
+}
+
+li a:hover {
+    background-color: #111;
+  }

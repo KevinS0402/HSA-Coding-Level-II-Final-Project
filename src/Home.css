@@ -1,0 +1,46 @@
+#homeSection {
+    width: 100%;
+    min-height: 300px;
+    margin: 0 auto;
+    display: flex;
+    /*
+    display: flex;
+    justify-content: center;
+    align-items: center;*/
+}
+
+#Column1Home {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+#Column2Home {
+    width: 50%;
+}
+#Column2 Heading1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#WelcomeMessage {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    font-size: 20px;
+    height: 40%;
+    text-align: center;
+    line-height: 1.75;
+}
+
+form {
+    text-align: center;
+
+    text-decoration: none;
+    color: white;
+}
