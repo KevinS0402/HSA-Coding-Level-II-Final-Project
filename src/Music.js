@@ -21,7 +21,6 @@ const Music = () => (
                 <input type = "submit" value = "Listen to Bubble Gum!"/>
             </form>
             <iframe width="90%" height="63%" src="https://www.youtube.com/embed/ldvgXqlSvXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            
         </div>
         
     </table>
