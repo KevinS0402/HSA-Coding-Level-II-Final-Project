@@ -11,7 +11,7 @@ const Contact = () => (
         </>
         <table id = "homeSection">
             <div id = "Column1Contact">
-                <Heading1 string = "CONTACT"/>
+                <Heading1 string = "Contact"/>
                 <p>Email:</p>
                 <center>
                 <a href="mailto:skevin0402@gmail.com">skevin0402@gmail.com</a>
