@@ -11,7 +11,7 @@ const Contact = () => (
         </>
         <table id = "homeSection">
             <div id = "Column1Contact">
-                <Heading1 string = "Contact"/>
+                <h1>Contact</h1>
                 <p><b>Email:</b></p>
                 <center>
                 <a href="mailto:skevin0402@gmail.com">skevin0402@gmail.com</a>
@@ -23,6 +23,11 @@ const Contact = () => (
                 <p></p>
                 <p><b>Instagram:</b></p>
                 <a href = "https://www.instagram.com/kevinsong.fire/" target = "_blank">@kevinsong.fire</a>
+                <p></p>
+                <p>
+                </p>
+                <p><b>Connect with KSONG (Music):</b></p>
+                <a href = "https://linktr.ee/ksongsocial" target = "_blank">Link to socials</a>
                 </center>
             </div>
             <div id = "Column2Contact">

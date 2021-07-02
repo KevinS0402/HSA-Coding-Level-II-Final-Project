@@ -44,3 +44,8 @@ form {
     text-decoration: none;
     color: white;
 }
+
+.buyLink {
+    color: white;
+    text-align: center;
+}
