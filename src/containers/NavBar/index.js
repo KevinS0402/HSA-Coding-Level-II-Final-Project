@@ -11,11 +11,11 @@ export const NavBar = () =>
         <h2>KEVIN SONG</h2>
         <center><img id = "fireLogo" src = {fireLogo} alt="Kevin Song Logo"/></center>
         <ul>
-            <li> <Link to="/">Home</Link> </li>
-            <li> <Link to = "/about">About</Link> </li>
-            <li> <Link to = "/music">Music</Link> </li>
-            <li> <Link to = "/book">Book</Link> </li>
-            <li> <Link to = "/contact">Contact</Link> </li>
+            <li> <Link to="/">HOME</Link> </li>
+            <li> <Link to = "/about">ABOUT</Link> </li>
+            <li> <Link to = "/music">MUSIC</Link> </li>
+            <li> <Link to = "/book">BOOK</Link> </li>
+            <li> <Link to = "/contact">CONTACT</Link> </li>
         </ul>
     </>
 )
