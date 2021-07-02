@@ -19,7 +19,7 @@
     "test": "react-scripts test --env=jsdom",
     "clean": "rm -rf node_modules package-lock.json && npm i",
     "predeploy": "npm run build",
-    "deplay": "gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "eject": "react-scripts eject"
   },
