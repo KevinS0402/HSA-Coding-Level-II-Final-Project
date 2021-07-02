@@ -12,9 +12,17 @@ const Contact = () => (
         <table id = "homeSection">
             <div id = "Column1Contact">
                 <Heading1 string = "Contact"/>
-                <p>Email:</p>
+                <p><b>Email:</b></p>
                 <center>
                 <a href="mailto:skevin0402@gmail.com">skevin0402@gmail.com</a>
+                <p></p>
+                <p></p>
+                <p><b>DevelopIT (Nonprofit):</b></p>
+                <a href = "https://www.developitinc.org" target = "_blank">Link to Website</a>
+                <p></p>
+                <p></p>
+                <p><b>Instagram:</b></p>
+                <a href = "https://www.instagram.com/kevinsong.fire/" target = "_blank">@kevinsong.fire</a>
                 </center>
             </div>
             <div id = "Column2Contact">
