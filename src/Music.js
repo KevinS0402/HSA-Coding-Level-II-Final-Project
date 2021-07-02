@@ -8,7 +8,7 @@ import TwentyFour from './containers/Images/KevinMusic2'
 const Music = () => (
     <>
     <NavBar/>
-    <h1>My Music</h1>
+    <h1>Music</h1>
     <p></p>
     <table id = "homeSection">
         
