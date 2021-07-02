@@ -14,7 +14,7 @@ const Home = () => (
           <KevinPhoto/>
         </div>
         <div id = "Column2Home">
-          <Heading1 string = "KEVIN SONG"/>
+          <h1>KEVIN SONG</h1>
           
           <p id = "WelcomeMessage">Welcome to my website!<br></br>You can browse around my website by clicking on the <br></br>links in the navigation bar. You can also click on the button <br></br>below to learn more about me!</p>
           
