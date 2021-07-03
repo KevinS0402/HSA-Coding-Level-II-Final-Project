@@ -15,11 +15,23 @@ import Contact from './Contact'
 const Webpages = () => {
     return(
         <Router>
-            <Route exact path="/" component = {Home} />
-            <Route path = "/about" component = {About} />
-            <Route path = "/music" component = {Music} />
-            <Route path = "/book" component = {Book} />
-            <Route path = "/contact" component = {Contact} />
+        <Switch>
+            <Route exact path = "/">
+                <Home />
+            </Route>
+            <Route exact path = "/about">
+                <About />
+            </Route>
+            <Route exact path = "/music">
+                <Music />
+            </Route>
+            <Route exact path = "/book">
+                <Book />
+            </Route>
+            <Route exact path = "/contact">
+                <Contact />
+            </Route>
+        </Switch>
         </Router>
     );
 };

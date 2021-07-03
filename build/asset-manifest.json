@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/KevinS0402/static/css/main.93edf25f.chunk.css",
+    "main.js": "/KevinS0402/static/js/main.9d538ef6.chunk.js",
+    "main.js.map": "/KevinS0402/static/js/main.9d538ef6.chunk.js.map",
+    "runtime-main.js": "/KevinS0402/static/js/runtime-main.44e3721c.js",
+    "runtime-main.js.map": "/KevinS0402/static/js/runtime-main.44e3721c.js.map",
+    "static/js/2.116afb4a.chunk.js": "/KevinS0402/static/js/2.116afb4a.chunk.js",
+    "static/js/2.116afb4a.chunk.js.map": "/KevinS0402/static/js/2.116afb4a.chunk.js.map",
+    "index.html": "/KevinS0402/index.html",
+    "static/css/main.93edf25f.chunk.css.map": "/KevinS0402/static/css/main.93edf25f.chunk.css.map",
+    "static/js/2.116afb4a.chunk.js.LICENSE.txt": "/KevinS0402/static/js/2.116afb4a.chunk.js.LICENSE.txt",
+    "static/media/Bubble-Gum.33c61aa2.png": "/KevinS0402/static/media/Bubble-Gum.33c61aa2.png",
+    "static/media/KSONG-24_7.6f6aa89b.png": "/KevinS0402/static/media/KSONG-24_7.6f6aa89b.png",
+    "static/media/KSONG-FIRE.8233b890.png": "/KevinS0402/static/media/KSONG-FIRE.8233b890.png",
+    "static/media/Kevin-Song-Photo.df38708f.JPG": "/KevinS0402/static/media/Kevin-Song-Photo.df38708f.JPG",
+    "static/media/Kevin-Song-Photo2.cc233e8e.JPG": "/KevinS0402/static/media/Kevin-Song-Photo2.cc233e8e.JPG",
+    "static/media/Kevin-Song-Photo3.0ee72d5f.jpg": "/KevinS0402/static/media/Kevin-Song-Photo3.0ee72d5f.jpg",
+    "static/media/secret-agent.c7761d81.png": "/KevinS0402/static/media/secret-agent.c7761d81.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44e3721c.js",
+    "static/js/2.116afb4a.chunk.js",
+    "static/css/main.93edf25f.chunk.css",
+    "static/js/main.9d538ef6.chunk.js"
+  ]
+}
